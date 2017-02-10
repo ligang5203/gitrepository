@@ -22,3 +22,4 @@ ctype = 1                                   # 单元格值的类型：0 empty,1 
 value = 'new test'                          # 单元格的具体值
 xf = 0                                      # 扩展的格式化
 table.put_cell(row, col, ctype, value, xf)  # 写入到excel C4格
+# test
